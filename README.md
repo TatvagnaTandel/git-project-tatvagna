@@ -11,7 +11,3 @@ What is up people , I like to get fed information as much as possible(uppar uppa
 ## Projects
 - prakriti-os : SIH problem statement workflow
 - UpGradSOTtracker : Brings live updates of upcoming events for UpGrad SOT Students
-
-## Socials Links
-- Github: https://github.com/TatvagnaTandel
-- Linkedin: https://www.linkedin.com/in/tatvagna-tandel
